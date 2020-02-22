@@ -4,8 +4,6 @@
 arduino.sh
 due.sh
 build/
-BSB_lan_config.h
-BSB_lan_custom.h
 conv-bf-log.pl
 nohup.out
 src/BSB/BSBSoftwareSerial.cpp.old
